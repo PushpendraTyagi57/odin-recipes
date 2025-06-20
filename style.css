@@ -1,0 +1,36 @@
+
+
+body {
+    background-color: #f1faee;
+}
+
+h1 {
+    color: #1d3557;
+    font-size: 40px;
+    margin: 20px
+}
+
+.recipe_image {
+    width: 300px;
+    height: auto;
+    padding: 30px
+}
+
+h2 {
+    color: #e63946;
+}
+
+h3 {
+    color: #ffb703;
+    font-style: italic;
+    font-size: 20px;
+}
+
+li {
+    padding: 5px;
+    font-size: 17px;
+}
+
+p {
+    font-size: 22px;
+}
